@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Organico",
+    "img": "https://cdn.icon-icons.com/icons2/1832/PNG/512/iconfinderfoodandrestaurantorganicveganhealthyfooddietvegetarianvegetablesvegetablefood4394829-115899_115882.png"
+  },
+  {
+    "id": 2,
+    "name": "Organico",
+    "img": "https://previews.123rf.com/images/sonulkaster/sonulkaster1701/sonulkaster170100324/73184745-s%C3%ADmbolo-del-vector-de-la-basura-org%C3%A1nica-.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Plastico y carton",
+    "img": "https://img2.freepng.es/20180420/yhe/kisspng-paper-recycling-paper-recycling-plastic-waste-aluminium-can-5ada6c2a90de35.5475154015242639785934.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Residuos Peligrosos",
+    "img": "https://img2.freepng.es/20181216/gkq/kisspng-hazardous-waste-raw-material-clip-art-download-clip-royalty-free-library-how-humans-have-5c1617d880b626.5558124515449517685272.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Plastico y carton",
+    "img": "https://img2.freepng.es/20180422/dte/kisspng-plastic-bag-packaging-and-labeling-paper-bag-kraft-kraft-paper-5adc2613cb1a06.7172742815243771078319.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Inorganico",
+    "img": "https://cmapspublic.ihmc.us/rid=1TD5F9R7C-XFBKS8-3JBP/iNORGANICA%20foto.png"
+  },
+  {
+    "id": 7,
+    "name": "Organico",
+    "img": "https://3.bp.blogspot.com/-ajd-w8goF7g/VaMU6XjnooI/AAAAAAAAa5o/jvTxdQO0j0oSMqiRwq4dD2z0liTSL8X2wCPcB/s1600/worm-compost-illustration.png"
+  },
+  {
+    "id": 8,
+    "name": "Inorganico",
+    "img": "https://tqpytokz.cdn.imgeng.in/media-adsa/static/3864/204.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Residuos Peligrosos",
+    "img": "https://ecoblog.mcp.es/l4r/wp-content/uploads/2018/11/imagen.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Inorganico",
+    "img": "https://t2.ev.ltmcdn.com/es/posts/7/4/7/donde_reciclar_latas_de_aluminio_1747_orig.jpg"
+  }
+]
